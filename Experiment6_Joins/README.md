@@ -275,7 +275,6 @@ ON
 ## RESULT
 Thus, the SQL queries to implement different types of joins have been executed successfully.
 
-## Module 5 Score
+<img width="1175" height="71" alt="image" src="https://github.com/user-attachments/assets/2a7f400c-a35f-4a26-82d1-7d94e0e03af1" />
 
-<img width="1070" height="97" alt="image" src="https://github.com/user-attachments/assets/d2ee3ec4-e1fc-40cd-a191-6d32764507de" />
 
